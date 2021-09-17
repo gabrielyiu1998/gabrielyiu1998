@@ -1,7 +1,7 @@
 ## Gabriel Yiu
 I am an actuarial analyst with an interest in computer science!
 My projects from competitions, coursework, or personal interest are uploaded onto this github. 
-Feel free to reach out to me on <a href="https://www.linkedin.com/in/gabriel-yiu-083836128/">LinkedIn</a>.
+Feel free to reach out to me through <a href="mailto:gabrielyiu1998@gmail.com">email</a> or <a href="https://www.linkedin.com/in/gabriel-yiu-083836128/">LinkedIn</a>.
 
 ### Notable Projects
 
