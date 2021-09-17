@@ -10,4 +10,4 @@ Mathematical Modelling Final Project
 This was my final project for APM348 at University of Toronto. My team developed formulated an ice-cream production procedure
 as a Markov Decision Process. We used reinforcement learning techniques (Q-Learning) to solve the model.
 
-<a href="APM348_OR_Proj/APM348Final report - (Jan 13, 2021).pdf"> Final Write Up </a>
+<a href="gabrielyiu1998/APM348_OR_Proj/APM348Final report - (Jan 13, 2021).pdf"> Final Write Up </a>
