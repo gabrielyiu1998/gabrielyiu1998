@@ -1,14 +1,8 @@
 ## Gabriel Yiu
-I am an Actuarial Science student by training, but I have an interest in computer science.
+I am an actuarial analyst with an interest in computer science!
 My projects from competitions, coursework, or personal interest are uploaded onto this github.
 
 ### Notable Projects
-
-#### Mathematical Modelling Final Project
-
-This was my <a href="https://github.com/gabrielyiu1998/APM348_OR_Proj/blob/main/APM348Final%20report%20-%20(Jan%2013%2C%202021).pdf">final project</a>
-for APM348 at University of Toronto. My team developed formulated an ice-cream production procedure
-as a Markov Decision Process. We used reinforcement learning techniques (Q-Learning) to solve the model.
 
 #### 3Blue1Brown's SoME
 
@@ -26,3 +20,9 @@ The following <a href="https://github.com/gabrielyiu1998/RiskLabCompetition/blob
 for our case competition. We were tasked with analyzing market risk, liquidity risk, and credit risk for 20 companies. We needed to construct an
 ETF portfolio using the 20 stocks that was not overly exposed to the risks above. The <a href="https://github.com/gabrielyiu1998/RiskLabCompetition">R code</a>
 uploaded helped us with our stepwise regressions, VaR, and ES calculations.
+
+#### Mathematical Modelling Final Project
+
+This was my <a href="https://github.com/gabrielyiu1998/APM348_OR_Proj/blob/main/APM348Final%20report%20-%20(Jan%2013%2C%202021).pdf">final project</a>
+for APM348 at University of Toronto. My team developed formulated an ice-cream production procedure
+as a Markov Decision Process. We used reinforcement learning techniques (Q-Learning) to solve the model.
