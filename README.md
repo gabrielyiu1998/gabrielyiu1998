@@ -4,9 +4,9 @@ My projects from competitions, coursework, or personal interest are uploaded ont
 
 ### Notable Projects
 
-#### 3Blue1Brown's SoME
+#### Dynamic Hedging - Binomial Pricing Model | 3Blue1Brown's Summer of Math Exposition
 
-The following <a href="https://youtu.be/s5EXkS4iDxk">video</a> was created for <a href="https://www.3blue1brown.com/blog/some1"> 3Blue1Brown's SoME </a>.
+The following <a href="https://youtu.be/s5EXkS4iDxk">video</a> was created for <a href="https://www.3blue1brown.com/blog/some1"> 3Blue1Brown's SoME</a>.
 The <a href="https://github.com/gabrielyiu1998/DynamicHedging">code</a> uploaded on github helped produce the numbers and visualizations shown in my video.
 
 The gif below is from the 2nd backtesting part of the <a href="https://youtu.be/TwChigDDG5U"> video</a>
