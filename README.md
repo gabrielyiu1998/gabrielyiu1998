@@ -1,19 +1,13 @@
-### Hi there 👋
+### Gabriel Yiu
 
 ASA candidate. My projects from competitions, coursework, or personal interest are uploaded onto this github.
-I am an Actuarial Science student by training, but I maintain an interest in computing.
+I am an Actuarial Science student by training, but I have an interest in computer science.
 
-<!--
-**gabrielyiu1998/gabrielyiu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Notable Projects**
 
-Here are some ideas to get you started:
+Mathematical Modelling Final Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This was my final project for APM348 at University of Toronto. My team developed formulated an ice-cream production procedure
+as a Markov Decision Process. We used reinforcement learning techniques (Q-Learning) to solve the model.
+
+<a href="APM348Final report - (Jan 13, 2021).pdf"> Final Write Up </a>
