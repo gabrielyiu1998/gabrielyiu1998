@@ -20,9 +20,9 @@ where I backtest my dynamic hedging strategy during the March 2020 market crash.
 
 ![Backtesting Gif](https://github.com/gabrielyiu1998/gabrielyiu1998/blob/main/Dynamic_Hedging_Backtesting.gif?raw=true)
 
-#### Risk Lab 2019 Case Competition University of Toronto
+#### Risk Lab 2019 Case Competition University of Toronto (1st Place!)
 
 The following <a href="https://github.com/gabrielyiu1998/RiskLabCompetition/blob/main/Final_presentation.pdf">presentation</a> is the deck we presented
-for our Case Competition. We were tasked with analyzing market risk, liquidity risk, and credit risk for 20 companies. We needed to construct an
+for our case competition. We were tasked with analyzing market risk, liquidity risk, and credit risk for 20 companies. We needed to construct an
 ETF portfolio using the 20 stocks that was not overly exposed to the risks above. The <a href="https://github.com/gabrielyiu1998/RiskLabCompetition">R code</a>
 uploaded helped us with our stepwise regressions, VaR, and ES calculations.
