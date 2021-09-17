@@ -2,6 +2,8 @@
 I am an actuarial analyst with an interest in computer science!
 My projects from competitions, coursework, or personal interest are uploaded onto this github.
 
+Contact Me on <a href="https://www.linkedin.com/in/gabriel-yiu-083836128/">LinkedIn</a>
+
 ### Notable Projects
 
 #### Dynamic Hedging - Binomial Pricing Model | 3Blue1Brown's Summer of Math Exposition
