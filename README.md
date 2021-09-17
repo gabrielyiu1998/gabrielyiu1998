@@ -1,7 +1,7 @@
 ## Gabriel Yiu
 
-ASA candidate. My projects from competitions, coursework, or personal interest are uploaded onto this github.
-I am an Actuarial Science student by training, but I have an interest in computer science.
+ASA candidate. I am an Actuarial Science student by training, but I have an interest in computer science.
+My projects from competitions, coursework, or personal interest are uploaded onto this github.
 
 ### Notable Projects
 
